@@ -1,0 +1,25 @@
+.photo-grid {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  margin-left: 3.75%;
+  margin-right: 3.75%;
+  margin-top: 7.19%;
+}
+
+@media screen and (max-width: 1023px) {
+  .photo-grid {
+    margin-left: 3.13%;
+    margin-right: 3.13%;
+    margin-top: 11.46%;
+  }
+}
+
+
+@media screen and (max-width: 767px) {
+  .photo-grid {
+    margin-top: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+}

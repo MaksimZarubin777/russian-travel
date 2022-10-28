@@ -1,0 +1,27 @@
+.cover {
+  margin-top: 7.19%;
+  margin-left: 3.75%;
+  margin-right: 3.75%;
+  position: relative;
+}
+
+@media screen and (max-width: 1279px) {
+  .cover {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media screen and (max-width: 1023px) {  
+  .cover {
+    margin-top: 5.47%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .cover {
+    margin-top: 20.63%;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
