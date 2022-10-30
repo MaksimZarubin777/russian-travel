@@ -4,22 +4,30 @@
   margin-right: 34.53%;
 }
 
-@media screen and (max-width: 1279px) {
+@media screen and (max-width: 1124px) {
   .intro {
     margin-left: 4.69%;
     margin-right: 27.93%;
   }
 }
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 984px) {
   .intro {
-    margin-top: 14.32%;
+    margin-top: 11.46%;
     margin-left: 3.13%;
     margin-right: 3.13%;
   }
 }
 
 @media screen and (max-width: 767px) {
+  .intro {
+    margin-top: 13%;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+}
+
+@media screen and (max-width: 568px) {
   .intro {
     margin-top: 20%;
     margin-left: 5%;

@@ -7,16 +7,15 @@
   margin-top: 7.19%;
 }
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 1124px) {
   .photo-grid {
     margin-left: 3.13%;
     margin-right: 3.13%;
-    margin-top: 11.46%;
+    margin-top: 8.98%;
   }
 }
 
-
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 568px) {
   .photo-grid {
     margin-top: 20%;
     margin-left: 5%;

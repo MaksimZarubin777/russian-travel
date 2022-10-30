@@ -9,5 +9,6 @@
   .places__website {
     margin-right: 5%;
     margin-left: 5%;
+    align-self: flex-start;
   }
 }
