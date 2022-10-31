@@ -2,7 +2,6 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
   min-height: 740px;
   box-sizing: border-box;
   background-image: url("../../../images/cover__background.png");
@@ -10,6 +9,7 @@
   background-position: center;
   background-size: cover;
   position: relative;
+  text-decoration: none;
 }
 
 .cover__background::before {

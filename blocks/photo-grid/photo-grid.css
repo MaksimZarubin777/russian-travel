@@ -9,9 +9,17 @@
 
 @media screen and (max-width: 1124px) {
   .photo-grid {
+    margin-left: 4.69%;
+    margin-right: 4.69%;
+    margin-top: 8.98%;
+  }
+}
+
+@media screen and (max-width: 984px) {
+  .photo-grid {
+    margin-top: 11.46%;
     margin-left: 3.13%;
     margin-right: 3.13%;
-    margin-top: 8.98%;
   }
 }
 

@@ -48,7 +48,7 @@
     row-gap: 32px;
   }
 
-  ._places__place:first-child {
+  .places__place:first-child {
     margin-top: 20%;
   }
 }

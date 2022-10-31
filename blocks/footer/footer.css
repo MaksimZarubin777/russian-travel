@@ -8,7 +8,15 @@
   flex-wrap: wrap;
 }
 
-@media screen and (max-width: 1023px) {  
+@media screen and (max-width: 1124px) {  
+  .footer {
+    margin-top: 8.98%;
+    margin-right: 4.69%;
+    margin-left: 4.69%;
+  }
+}
+
+@media screen and (max-width: 984px) {
   .footer {
     margin-top: 11.46%;
     margin-right: 3.13%;
@@ -18,9 +26,19 @@
 
 @media screen and (max-width: 767px) {
   .footer {
-    margin-top: 11.46%;
-    margin-right: 36.88%;
-    margin-left: 5%;
     flex-direction: column;
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .footer {
+    margin-top: 20%;
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .footer {
+    margin-top: 20%;
+    margin-left: 5%;
   }
 }

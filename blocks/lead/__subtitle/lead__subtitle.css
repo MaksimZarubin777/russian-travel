@@ -10,12 +10,13 @@
   text-align: center;
   margin-left: 17.48%;
   margin-right: 17.48%;
-  margin-top: 3.25%;
+  margin-top: 2.5%;
   margin-bottom: 6.5%;
 }
 
 @media screen and (max-width: 1124px) {
   .lead__subtitle {
+    margin-top: 3.13%;
     margin-left: 15.52%;
     margin-right: 15.52%;
     margin-bottom: 6.03%;
@@ -24,19 +25,9 @@
 
 @media screen and (max-width: 984px) {
   .lead__subtitle {
+    margin-top: 4.17%;
     margin-right: 8.33%;
     margin-left: 8.33%;
-  }
-}
-
-@media screen and (max-width: 767px) {
-  .lead__subtitle {
-    margin-right: 4.38%;
-    margin-left: 5.63%;
-    font-size: 23px;
-    line-height: 28px;
-    margin-top: 3%;
-    margin-bottom: 6.25%;
   }
 }
 
