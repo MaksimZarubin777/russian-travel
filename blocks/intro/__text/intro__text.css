@@ -9,3 +9,9 @@
   color: #fff;
   margin-top: 5.8%;
 }
+
+@media screen and (max-width: 368px) {
+  .intro__text {
+    margin-top: 13.89%;
+  }
+}

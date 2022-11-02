@@ -8,5 +8,11 @@
   line-height: 18px;
   color: #fff;
   list-style-type: none;
-  margin-top: 11.81%;
+  margin-top: 4.78%;
+}
+
+@media screen and (max-width: 368px) {
+  .intro__list {
+    margin-top: 11.81%;
+  }
 }

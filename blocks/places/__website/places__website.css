@@ -3,10 +3,18 @@
   padding: 0;
   border: 0;
   align-self: flex-end;
+  margin-bottom: .89%;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 1124px) {  
   .places__website {
+    margin-bottom: 1.72%;
+  }
+}
+
+@media screen and (max-width: 984px) {
+  .places__website {
+    margin-bottom: 5.1%;
     align-self: flex-start;
   }
 }
@@ -14,6 +22,7 @@
 @media screen and (max-width: 568px) {
   .places__website {
     margin-left: 5%;
+    margin-bottom: 0;
     align-self: flex-start;
   }
 }
